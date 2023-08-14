@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer | Teacher
 ----------------------------
 
-Michael is a JavaScript Developer and Teacher with a passion for teaching developers. He is a full-time Full Stack developer with Superior Software Solutions in Nairobi, Kenya.
+Michael is a JavaScript Developer and Trainer with a passion for building software and teaching developers. He is a full-time Full Stack developer with Superior Software Solutions.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🧠  I'm learning everything JavaScript
