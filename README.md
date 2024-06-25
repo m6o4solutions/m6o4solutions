@@ -2,7 +2,7 @@
 
 ## Developer | Teacher | Business Man
 
-I am a full stack JavaScript Developer and I also teach developers how to build software and find their way through the Business of Software. I live in Nairobi, Kenya and I build a few products for Superior Software Solutions.
+I am a full-stack JavaScript Developer and teach developers how to build software and find their way through the Business of Software. I live in Nairobi, Kenya and I create a few products for Superior Software Solutions.
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🧠 I'm learning everything JavaScript
@@ -34,16 +34,16 @@ I am a full stack JavaScript Developer and I also teach developers how to build 
 ## Socials
 
 <p align="left">
-<a href="https://www.github.com/thesavannahdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+<a href="https://www.github.com/thesavanahdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 </a>
-<a href="https://www.linkedin.com/in/mowuor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://www.linkedin.com/in/thesavanahdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
-<a href="https://www.twitter.com/thesavannahdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+<a href="https://www.twitter.com/thesavanahdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </a>
 </p>
 
 <br/>
 
-<a href="https://www.twitter.com/thesavannahdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/thesavannahdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+<a href="https://www.twitter.com/thesavanahdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/thesavanahdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
