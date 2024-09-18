@@ -45,5 +45,5 @@ I am a full-stack JavaScript Developer and teach developers how to build softwar
 <br/>
 
 <a href="https://www.twitter.com/thesavanadev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/thesavanahdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+src="https://img.shields.io/twitter/follow/thesavanadev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
