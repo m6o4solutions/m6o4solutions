@@ -2,12 +2,12 @@
 
 ## Developer | Teacher | Business Man
 
-I am a full-stack JavaScript Developer and teach developers how to build software and find their way through the Business of Software. I live in
-Nairobi, Kenya and I create a few products for Superior Software Solutions.
+I am a full-stack JavaScript Developer and teach developers how to build software and find their way through the
+Business of Software. I live in Nairobi, Kenya and I create a few products for Superior Software Solutions.
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🧠 I'm learning everything JavaScript
-- 🏡 [My website](https://www.s3.co.ke)
+- 🏡 [My website](https://www.m6o4solutions.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I live and work in the savannah of Eastern Africa!
 
@@ -35,15 +35,16 @@ Nairobi, Kenya and I create a few products for Superior Software Solutions.
 ## Socials
 
 <p align="left">
-<a href="https://www.github.com/thesavanadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+<a href="https://www.github.com/m6o4solutions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 </a>
-<a href="https://www.linkedin.com/in/thesavanadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://www.linkedin.com/in/m6o4solutions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
-<a href="https://www.twitter.com/thesavanadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+<a href="https://www.twitter.com/m6o4solutions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </a>
 </p>
 
 <br/>
 
-<a href="https://www.twitter.com/thesavanadev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/thesavanadev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/> </a>
+<a href="https://www.twitter.com/m6o4solutions" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/m6o4solutions?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
