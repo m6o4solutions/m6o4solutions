@@ -1,9 +1,9 @@
 # Hi my name is Michael ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Developer | Teacher | Business Man
+## Developer | Educator | Businessman
 
 I am a full-stack JavaScript Developer and teach developers how to build software and find their way through the
-Business of Software. I live in Nairobi, Kenya and I create a few products for Superior Software Solutions.
+Business of Software. I live in Nairobi, Kenya and I create a few products for M6O4 Solutions DBA Superior Software Solutions.
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🧠 I'm learning everything JavaScript
